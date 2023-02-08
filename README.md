@@ -6,7 +6,7 @@
 2. Clone this repository
 3. Navigate into the repository
 4. Build the Docker image by running `docker build -t go-docker-hello-world .`
-5. Start a new Docker container by `running docker run go-docker-hello-world`
+5. Start a new Docker container by running `docker run go-docker-hello-world`
 6. ✨Magic ✨
 
 You should see the following output:
